@@ -129,7 +129,7 @@ export let events = [
     },
 ];
 
-export const orchestra = [
+export let orchestra = [
     {
         id: "jon_chapman",
         name: "Professor Jon Chapman",

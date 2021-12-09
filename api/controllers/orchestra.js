@@ -1,4 +1,3 @@
-import { v4 as uuidv4 } from "uuid";
 import { orchestra } from "../../data/data.js";
 
 export const getOrchestra = (req, res) => {
@@ -22,4 +21,10 @@ export const createPlayer = (req, res) => {
     res.send(
         `The player ${player.name} has successfully been added to the database!`
     );
+};
+
+export const deletePlayer = (req, res) => {
+    const { id } = req.params;
+    orchestra = orchestra.filter(player => player.id !== id);
+    res.send(`The player with the ${id} has been deleted.`);
 };
