@@ -42,15 +42,17 @@ export let events = [
         author: null,
         description:
           "Non ad labore aliqua adipisicing et laborum exercitation. Enim consectetur aliquip eu commodo. Eiusmod ipsum anim exercitation consectetur elit amet voluptate aliquip ullamco. Duis deserunt dolore et officia ullamco voluptate culpa eiusmod cupidatat ullamco sit anim incididunt nulla. Nisi et et commodo non dolor amet aliquip exercitation. Et fugiat consequat mollit cillum anim aliquip commodo laboris enim voluptate ullamco ipsum nostrud qui. Laboris duis cillum duis aliqua cupidatat nulla.",
-        alternateDescription: null,
+        alternateDescription:
+          "Not to do any iterative fatigue and fatigue. For the main objectives of the EU. This type of exercise enhanced the mind's desire to enjoy the objectives of any school. They abandon the school district offices in pain and pleasure through no fault of that kind If not, the pain will not be comfortable and the objectives of the exercise are important. And he shuns the consequences of the softening of his soul, for the pleasure of his labors, for the pleasure of any one of us. Laboris duis cillum duis something longing for none.",
       },
       {
         name: "Cantata",
         title: "Ach wie fluchtig, ach wie nichtig BWV 26",
         author: "JS Bach",
         description:
-          "Ea ex labore est consequat adipisicing consectetur ea duis mollit duis exercitation. Eu est reprehenderit dolor aute adipisicing occaecat veniam. Fugiat id tempor dolor incididunt. Pariatur commodo irure amet cupidatat laborum sint.",
-        alternateDescription: null,
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id porta nibh venenatis cras sed felis eget velit.",
+        alternateDescription:
+          "The pain itself is the love of the pain, the main ecological problems, but I give this kind of time to fall down, so that some great pain and pain. That's the gate of the venenatis tomorrow, but the cat needs to choose.",
       },
     ],
     theme: {
