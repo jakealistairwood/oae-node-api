@@ -116,8 +116,8 @@ export let events = [
         name: "Cantata",
         title: "Ach wie fluchtig, ach wie nichtig BWV 26",
         author: "JS Bach",
-        description: "",
-        alternateDescription: "", // This is used for any lyric translations. It will create a tab in the component that the end-user can switch between.
+        description: null,
+        alternateDescription: null,
       },
       {
         name: "Science",
