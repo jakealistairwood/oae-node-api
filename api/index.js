@@ -5,6 +5,11 @@ const port = process.env.PORT || 3000;
 import { eventRoutes } from "./routes/events.js";
 import { orchestraRoutes } from "./routes/orchestra.js";
 
+app.use((req, res, next) => {
+    res.header("Access-Control-Allow-Origin", "*");
+    next();
+});
+
 app.use(express.json());
 app.use("/events", eventRoutes);
 app.use("/orchestra", orchestraRoutes);
